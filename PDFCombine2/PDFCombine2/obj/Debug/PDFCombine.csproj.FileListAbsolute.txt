@@ -1,0 +1,17 @@
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PDFCombine2.exe.config
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PDFCombine2.exe
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PDFCombine2.pdb
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine.csprojAssemblyReference.cache
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine.Form1.resources
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine2.Properties.Resources.resources
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine.csproj.GenerateResource.cache
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine.csproj.CoreCompileInputs.cache
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine.csproj.CopyComplete
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine2.exe
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\obj\Debug\PDFCombine2.pdb
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PdfSharp.Charting.dll
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PdfSharp.dll
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PdfSharp.xml
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\PdfSharp.Charting.xml
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\7258163\source\repos\PDFCombine2\PDFCombine2\bin\Debug\de\PdfSharp.Charting.resources.dll

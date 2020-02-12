@@ -1,0 +1,10 @@
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\bin\Debug\bmp2jpg.exe.config
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\bin\Debug\bmp2jpg.exe
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\bin\Debug\bmp2jpg.pdb
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.csprojAssemblyReference.cache
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.Form1.resources
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.Properties.Resources.resources
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.csproj.GenerateResource.cache
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.csproj.CoreCompileInputs.cache
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.exe
+C:\Users\7258163\source\repos\bmp2jpg\bmp2jpg\obj\Debug\bmp2jpg.pdb

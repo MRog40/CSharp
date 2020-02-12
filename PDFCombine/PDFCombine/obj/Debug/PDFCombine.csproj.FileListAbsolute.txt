@@ -1,0 +1,17 @@
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe.config
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe.manifest
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.application
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.pdb
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PdfSharp.xml
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\bin\Debug\PdfSharp.Charting.xml
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.Form1.resources
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.Properties.Resources.resources
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.GenerateResource.cache
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.CoreCompileInputs.cache
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.Fody.CopyLocal.cache
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.exe.manifest
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.application
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.CopyComplete
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.exe
+C:\Users\7258163\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.pdb
